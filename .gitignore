@@ -1,0 +1,32 @@
+
+# Quartus generated files
+**/db/
+**/incremental_db/
+**/output_files/
+**/greybox_tmp/
+**/.qsys_edit/
+**/synthesis/
+
+# Generated Nios II software
+**/*_bsp/
+**/obj/
+**/.settings/
+
+# Compilation outputs
+*.elf
+*.objdump
+*.map
+*.o
+*.d
+*.sof
+*.pof
+*.rpt
+*.sopcinfo
+*.qws
+*.bak
+*.log
+
+# Temporary files
+*~
+.DS_Store
+Thumbs.db
